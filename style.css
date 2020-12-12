@@ -6,6 +6,7 @@
 .container{
     margin-bottom: 100px;
 }
+/**slider**/
 .slider_bg{
     background-color: #FEEAE9;
     border-radius: 10px;
@@ -22,4 +23,47 @@
     border:none;
     border-radius: 5px;
     padding: 8px 20px;
+}
+/*Categories*/
+.cat-1, .cat-2, .cat-3{
+    padding:10px 30px;
+    border-radius: 10px;
+}
+.categories h2{
+    color:#fff;
+}
+.categories img{
+    width:100px;
+}
+.cat-1{
+    background-color: darkorange;
+}
+.cat-2{
+    background-color:rgb(231, 66, 94);
+}
+.cat-3{
+    background-color: rgb(34, 102, 228);
+}
+/*Product category Shoe*/
+.shoe{
+    border: none;
+    box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+}
+/*Product category Shoe*/
+.bag{
+    border: none;
+    box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.10);
+}
+.subscribe{
+    background-color: #FEEAE9;
+    border-radius: 10px;
+}
+.ltr{
+    text-align: center;
+    padding: 100px 0;
+}
+/*Footer*/
+footer{
+    text-align: center;
+    
 }
