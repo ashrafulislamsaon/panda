@@ -1,0 +1,25 @@
+/*Initial Setup*/
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin-bottom: 100px;
+}
+.slider_bg{
+    background-color: #FEEAE9;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color:#EF438A;
+}
+.buy-now{
+    background-color: #EF438A;
+    color: #fff;
+    border:none;
+    border-radius: 5px;
+    padding: 8px 20px;
+}
